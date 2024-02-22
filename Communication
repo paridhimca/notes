@@ -1,0 +1,38 @@
+21-02-2024
+
+Serial Communication :
+         8-bit data is transferred by one one and bit ae time
+
+Parallel:
+         8-bit data is transferred the Some time.
+
+Synchronous:
+         They are Data is Synchronize with the clock agree with the clock Speed 
+
+Asynchronous:
+         No clock is transmitted. Transmitter & reciever agree on the clock speed for the data transmission (Baudrate).
+
+UART (univeral Asynchronous Reciever /Transmitter):
+
+         It is Serial Communication using both ways it is full duplex.
+
+Duplex:
+      It Can be transmitted & recieved
+
+Transmitter Reciever
+
+Reciever ← Transmitter
+
+Simplex:
+       Transmitter Reciever
+
+Half way:
+       It can be transmitted in only one way at a time 
+
+Full way:
+       It can be transmitted both ways at a time
+Parity:
+       It is for error detection
+
+Mode:
+     Specifies whether it's Rx (or) TX.
